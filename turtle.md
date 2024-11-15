@@ -1,5 +1,5 @@
-# Turtle
-![Turtle](https://upload.wikimedia.org/wikipedia/commons/d/d5/Red_eared_slider_turtle_in_Taiwan.jpg)
+# Turtle 
+![Turtle](https://upload.wikimedia.org/wikipedia/commons/3/32/Emydidae_turtle.jpg)
 
 There are approximately 356 species of turtles living on land in all 
 continents except Antarctica and in both salt water and fresh water. 
@@ -9,5 +9,3 @@ long been used to refer to other terrestrial testudines as well, such as
 the box turtle and the wood turtle. Similarly, terrapin was sometimes used 
 to describe any aquatic turtle but is now largely restricted to the edible 
 diamondback terrapin (Malaclemys terrapin) of the eastern United States.
-
-
