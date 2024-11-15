@@ -1,6 +1,6 @@
 # Rabbit
 
-![Rabbit](https://upload.wikimedia.org/wikipedia/commons/b/bd/Rabbit_in_montana.jpg)
+![Rabbit](https://upload.wikimedia.org/wikipedia/commons/3/31/European_rabbit_Oryctolagus_cuniculus.jpg)
 
 Rabbits are ground dwellers that live in environments ranging from desert 
 to tropical forest and wetland. Their natural geographic range in the 
