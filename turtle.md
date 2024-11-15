@@ -1,5 +1,5 @@
 # Turtle
-![Turtle](path/to/turtle.png)
+![Turtle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Florida_Box_Turtle_Digon3.jpg/1280px-Florida_Box_Turtle_Digon3.jpg)
 
 There are approximately 356 species of turtles living on land in all 
 continents except Antarctica and in both salt water and fresh water. 
