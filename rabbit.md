@@ -1,5 +1,11 @@
-#Rabbit
-click[here](https://www.google.com/imgres?q=rabbit&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F5%2F5b%2FOryctolagus_cuniculus_Tasmania_2_%2528cropped%2529.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEuropean_rabbit&docid=tQuUEVyr__uDSM&tbnid=0a5_XXNGtPxoSM&vet=12ahUKEwiak5a7uduJAxUW6wIHHcOECNQQM3oECB0QAA..i&w=1117&h=1423&hcb=2&itg=1&ved=2ahUKEwiak5a7uduJAxUW6wIHHcOECNQQM3oECB0QAA)to 
-see **rabbit**
-Rabbits are small mammals in the family Leporidae which is in the order 
-Lagomorpha (which also includes pikas). 
+# Rabbit
+
+![Rabbit](https://upload.wikimedia.org/wikipedia/commons/b/bd/Rabbit_in_montana.jpg)
+
+Rabbits are ground dwellers that live in environments ranging from desert 
+to tropical forest and wetland. Their natural geographic range in the 
+Western Hemisphere encompasses the middle latitudes. In the Eastern 
+Hemisphere rabbits are found in Europe, portions of Central and Southern 
+Africa, the Indian subcontinent, Sumatra, and Japan. The European rabbit 
+(Oryctolagus cuniculus) has been introduced to many locations around the 
+world, and all breeds of domestic rabbit originate from the European.
