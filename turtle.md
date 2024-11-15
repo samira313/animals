@@ -1,6 +1,5 @@
-# Turtle 
-
-![turtle](https://www.istockphoto.com/photo/profile-of-a-red-footed-tortoise-walking-away-chelonoidis-carbonarius-isolated-on-gm1680509576-536637536?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fturtle&utm_medium=affiliate&utm_source=unsplash&utm_term=turtle%3A%3Aaffiliate-collections%3Ab)
+# Turtle
+![Turtle](https://upload.wikimedia.org/wikipedia/commons/d/d5/Red_eared_slider_turtle_in_Taiwan.jpg)
 
 There are approximately 356 species of turtles living on land in all 
 continents except Antarctica and in both salt water and fresh water. 
