@@ -1,7 +1,5 @@
 # Rabbit
-
-![Rabbit](https://upload.wikimedia.org/wikipedia/commons/3/31/European_rabbit_Oryctolagus_cuniculus.jpg)
-
+![Rabbit](https://upload.wikimedia.org/wikipedia/commons/6/6b/Green_turtle_swimming_over_coral_reefs_in_Kona.jpg)
 Rabbits are ground dwellers that live in environments ranging from desert 
 to tropical forest and wetland. Their natural geographic range in the 
 Western Hemisphere encompasses the middle latitudes. In the Eastern 
