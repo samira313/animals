@@ -1,11 +1,13 @@
 # Turtle
-![Turtle](path/to/turtle.png)
+![Turtle](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTC7U4r7Mn5hzfGxAZdiqCn2Y6aFdlQxzwFu1kviAoi4Po0yed2)
 
-There are approximately 356 species of turtles living on land in all 
-continents except Antarctica and in both salt water and fresh water. 
-Tortoises (family Testudinidae) live exclusively on land and have anatomic 
-features distinguishing them from other turtles, but the term tortoise has 
-long been used to refer to other terrestrial testudines as well, such as 
-the box turtle and the wood turtle. Similarly, terrapin was sometimes used 
-to describe any aquatic turtle but is now largely restricted to the edible 
-diamondback terrapin (Malaclemys terrapin) of the eastern United States.
+Turtles are reptiles of the order Testudines, characterized by a special 
+shell developed mainly from their ribs. Modern turtles are divided into 
+two major groups, the Pleurodira (side necked turtles) and Cryptodira 
+(hidden necked turtles), which differ in the way the head retracts. There 
+are 360 living and recently extinct species of turtles, including 
+land-dwelling tortoises and freshwater terrapins. They are found on most 
+continents, some islands and, in the case of sea turtles, much of the 
+ocean. Like other amniotes (reptiles, birds, and mammals) they breathe air 
+and do not lay eggs underwater, although many species live in or around 
+water.
