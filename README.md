@@ -1,14 +1,14 @@
 # Animals Repository
 
-Welcome to my repository
+Welcome to my repository for practice.
 
 ## Animals List
 
-1. [Giraffe](giraffe.md)
-   Click to read about giraffe.
+1. **[giraffe](giraffe.md)**
+   click to read about giraffe.
 
-2. [Rabbit](rabbit.md)
-   Click to read about rabbit.
+2. **[rabbit](rabbit.md)**
+   click to read about rabbit.
 
-3. [Turtle](turtle.md)
-   Click to read about turtle.
+3. **[turtle](turtle.md)**
+   click to read about turtle.
